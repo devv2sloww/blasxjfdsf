@@ -15,19 +15,6 @@ requests library
 Netim API Access
 Installation
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/domain-availability-checker.git
-cd domain-availability-checker
-Create a virtual environment and activate it:
-bash
-Copy code
-python3 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install required packages:
-bash
-Copy code
 pip install requests
 Obtain your Netim API key by signing up on Netim.
 Usage
